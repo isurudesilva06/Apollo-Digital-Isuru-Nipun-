@@ -91,7 +91,7 @@ This project was developed as part of a **technical task submission**, demonstra
 
 ## 👤 Author
 
-**Isuru De Silva**  
+**Isuru Nipun**  
 Task Submission – Apollo Digital  
 
 ---
@@ -99,6 +99,7 @@ Task Submission – Apollo Digital
 ## 📄 License
 
 This project is intended for evaluation and educational purposes.
+
 
 
 
