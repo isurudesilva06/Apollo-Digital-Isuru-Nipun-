@@ -14,9 +14,13 @@ The design follows modern UI/UX principles with responsive layouts and smooth in
 
 ## 📁 Project Structure
 ├── index.html # Main structure of the website
+
 ├── styles.css # Custom styling and responsive layout
+
 ├── script.js # Interactive elements and UI behavior
+
 ├── assets/ # Images and logo assets
+
 └── fonts/ # Local fonts (SF Pro Display, Raleway, Alef)
 
 ---
@@ -99,6 +103,7 @@ Task Submission – Apollo Digital
 ## 📄 License
 
 This project is intended for evaluation and educational purposes.
+
 
 
 
